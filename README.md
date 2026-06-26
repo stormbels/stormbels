@@ -15,7 +15,7 @@ I like building backend projects that combine code, databases, concurrency, and 
 
 * 🍕 [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) -> PostgreSQL practice from basic queries to joins, indexes, transactions, triggers, and functions
 * 🍝 [**Philosophers**](https://github.com/stormbels/philosophers) -> threads, mutexes, processes, semaphores, and deadlocks trying to enter the chat
-* 🔗 [**URLite**](github.com/stormbels/URLite) -> Go URL shortener with REST API, storage layer, tests, and clean project structure
+* 🔗 [**URLite**](https://github.com/stormbels/URLite) -> Go URL shortener with REST API, storage layer, tests, and clean project structure
 * 📦 [**Orders Service**](https://github.com/stormbels/Orders-Service) -> Kafka, PostgreSQL, cache, HTTP API, and a tiny backend service that actually moves data
 * 🧠 [**L1**](https://github.com/stormbels/L1) / [**L2**](https://github.com/stormbels/L2) -> Go backend practice, language internals, concurrency patterns, and interview-style tasks
 

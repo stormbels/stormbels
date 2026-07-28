@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Liza!</h1>
+<h1 align="center">Hi, I'm Liza!</h1>
 
 🌻 **About Me**
 
-I like building backend projects that combine code, databases, concurrency, and a little bit of chaos control - from SQL practice to classic C projects with threads and processes 🛠️
+I'm a computer science student interested in software development and learning through practice 🛠️
 
 ---
 
-🧪 **Project Cauldron**
+⚙️ **Educational Projects**
 
-- 🍕 [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) -> PostgreSQL practice
-- 🍝 [**Philosophers**](https://github.com/stormbels/philosophers) -> threads, mutexes, processes, semaphores, and deadlocks trying to enter the chat
+- 🍕 [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) -> educational PostgreSQL exercises focused on queries and relational data
+- 🍝 [**Philosophers**](https://github.com/stormbels/philosophers) -> a C project for learning the basics of threads, mutexes, processes, and semaphores
 
 ---
 
-🧩 Connect with Me
+🧩 **Connect with Me**
 
 - [**Telegram**](https://t.me/stormbel)

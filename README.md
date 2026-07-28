@@ -2,7 +2,7 @@
 
 🌻 **About Me**
 
-I'm a computer science student interested in software development and learning through practice 🦾
+I'm a computer science student interested in software development and learning through practice 🦾<br>
 I'm currently building my technical foundation through educational projects in programming and databases 🛠️
 
 ---

@@ -15,8 +15,4 @@ Go | HTTP/REST | PostgreSQL | Git | Unix
 - [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) - PostgreSQL queries, indexes, transactions, isolation levels, functions, and triggers.
 - [**Philosophers**](https://github.com/stormbels/Philosophers) - threads and mutexes in C; processes and semaphores in the bonus version.
 
-📚 **Courses**
-
-Completed a course on Redpanda.
-
 [**Telegram**](https://t.me/dmortons)

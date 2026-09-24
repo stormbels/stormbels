@@ -7,7 +7,7 @@ I practice Go, SQL, and testing through small projects. I'm also interested in s
 
 🧩 **Skills**
 
-Go, HTTP/REST, PostgreSQL, SQLite, unit and integration tests, testify, structured logging (slog), Git, Linux. Concurrency practice with C, POSIX threads, and mutexes.
+Go | HTTP/REST | PostgreSQL | Git | Unux
 
 ⚙️ **Projects**
 

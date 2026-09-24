@@ -1,61 +1,35 @@
 <h1 align="center">Hi, I'm Liza!</h1>
-<p align="center"><strong>Go backend development · Software testing · SRE</strong></p>
+<p align="center"><strong>Go · Testing · SRE</strong></p>
 
-🌻 **About Me**
+🌻 **About me**
 
-I'm a computer science student interested in **Go backend development, software testing, and site reliability engineering (SRE)**.<br>
-I'm looking for an internship in **Go backend development, QA/testing, or SRE**.<br>
-I build educational projects to practice HTTP APIs, databases, and testing — and learn how to make services easier to test, debug, and operate reliably 🛠️
+I'm a computer science student learning Go and writing tests for my projects. I also enjoy working with SQL and figuring out why things don't work.
 
----
+I'm looking for an internship in **Go development, QA/testing, or SRE**. Right now, I'm practicing backend development and testing, and learning more about how services run and how to troubleshoot them.
 
-🧩 **Currently compiling...**
+🧩 **My toolbox**
 
-```go
-type EngineerInProgress struct {
-    Focus    []string
-    Practice []string
-    Data     []string
-    Tools    []string
-}
+- **Go:** HTTP APIs, chi, slog
+- **Testing:** unit and integration tests, testify
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, Linux
+- **Also worked with:** C, POSIX threads, mutexes
 
-var liza = EngineerInProgress{
-    Focus:    []string{"Go backend", "Software testing", "SRE"},
-    Practice: []string{"HTTP APIs", "Unit tests", "Integration tests", "Structured logging"},
-    Data:     []string{"PostgreSQL", "SQLite", "SQL"},
-    Tools:    []string{"testify", "slog", "Git", "Linux"},
-}
-```
-
----
-
-⚙️ **Educational Projects**
+⚙️ **My projects**
 
 ### 🔗 [URLite](https://github.com/stormbels/URLite)
-A URL shortener written in **Go** with **chi** and **SQLite**.
-
-- HTTP endpoints for creating and deleting short links, plus redirects by alias
-- Structured logging with **slog**
-- Unit and integration tests with **testify**
+A small URL shortener I built to practice Go. It creates and deletes short links, redirects visitors, and stores data in SQLite. I added logging with slog and unit and integration tests with testify.
 
 ### 🐘 [SQL Bootcamp](https://github.com/stormbels/SQL_bootcamp)
-Hands-on **PostgreSQL** exercises: joins, CTEs, indexes, `EXPLAIN ANALYZE`, transactions, isolation levels, functions, and triggers.
+My PostgreSQL exercises, from joins and CTEs to indexes, transactions, functions, and triggers. I also practiced reading `EXPLAIN ANALYZE` output and working with different isolation levels.
 
 ### 🍝 [Philosophers](https://github.com/stormbels/Philosophers)
-A **C** project exploring concurrency: POSIX threads, mutexes, and access to shared resources, with a bonus implementation using processes and semaphores.
+The dining philosophers problem in C. I used threads and mutexes to coordinate access to shared resources. The bonus version uses processes and semaphores.
 
----
+🔬 **What I'm learning next**
 
-🔬 **What I'm working on**
+I want to get better at testing error cases and writing Go code that's easy to test. I'm also interested in the SRE side: using logs to investigate problems, learning about monitoring, and understanding what happens when a service fails.
 
-- Writing testable Go code and clearer error handling
-- Practicing API testing, including invalid input and failure scenarios
-- Deepening my understanding of SQL and concurrent access to data
-- Exploring SRE fundamentals: observability, service reliability, and troubleshooting
-- Building on Linux and structured logging to understand how services behave and fail
+💬 **Say hi**
 
----
-
-💬 **Connect with Me**
-
-- [**Telegram**](https://t.me/stormbel)
+[Telegram](https://t.me/stormbel)

@@ -1,35 +1,22 @@
 <h1 align="center">Hi, I'm Liza!</h1>
 <p align="center"><strong>Go · Testing · SRE</strong></p>
 
-🌻 **About me**
+I'm a second-year master's student in Informatics and Computer Engineering at MIREA, looking for an internship in **Go development, QA/testing, or SRE**.
 
-I'm a computer science student learning Go and writing tests for my projects. I also enjoy working with SQL and figuring out why things don't work.
+I practice Go, SQL, and testing through small projects. I'm also interested in service reliability and troubleshooting.
 
-I'm looking for an internship in **Go development, QA/testing, or SRE**. Right now, I'm practicing backend development and testing, and learning more about how services run and how to troubleshoot them.
+🧩 **Skills**
 
-🧩 **My toolbox**
+Go, HTTP/REST, PostgreSQL, SQLite, unit and integration tests, testify, structured logging (slog), Git, Linux. Concurrency practice with C, POSIX threads, and mutexes.
 
-- **Go:** HTTP APIs, chi, slog
-- **Testing:** unit and integration tests, testify
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** Git, Linux
-- **Also worked with:** C, POSIX threads, mutexes
+⚙️ **Projects**
 
-⚙️ **My projects**
+- [**URLite**](https://github.com/stormbels/URLite) - Go URL shortener with chi, SQLite, logging, and unit and integration tests.
+- [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) - PostgreSQL queries, indexes, transactions, isolation levels, functions, and triggers.
+- [**Philosophers**](https://github.com/stormbels/Philosophers) - threads and mutexes in C; processes and semaphores in the bonus version.
 
-### 🔗 [URLite](https://github.com/stormbels/URLite)
-A small URL shortener I built to practice Go. It creates and deletes short links, redirects visitors, and stores data in SQLite. I added logging with slog and unit and integration tests with testify.
+📚 **Courses**
 
-### 🐘 [SQL Bootcamp](https://github.com/stormbels/SQL_bootcamp)
-My PostgreSQL exercises, from joins and CTEs to indexes, transactions, functions, and triggers. I also practiced reading `EXPLAIN ANALYZE` output and working with different isolation levels.
+Completed a course on Redpanda.
 
-### 🍝 [Philosophers](https://github.com/stormbels/Philosophers)
-The dining philosophers problem in C. I used threads and mutexes to coordinate access to shared resources. The bonus version uses processes and semaphores.
-
-🔬 **What I'm learning next**
-
-I want to get better at testing error cases and writing Go code that's easy to test. I'm also interested in the SRE side: using logs to investigate problems, learning about monitoring, and understanding what happens when a service fails.
-
-💬 **Say hi**
-
-[Telegram](https://t.me/stormbel)
+[**Telegram**](https://t.me/dmortons)

@@ -7,7 +7,7 @@ I practice Go, SQL, and testing through small projects. I'm also interested in s
 
 🧩 **Skills**
 
-Go | HTTP/REST | PostgreSQL | Git | Unux
+Go | HTTP/REST | PostgreSQL | Git | Unix
 
 ⚙️ **Projects**
 

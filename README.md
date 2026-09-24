@@ -11,8 +11,8 @@ Go | HTTP/REST | PostgreSQL | Git | Unix
 
 ⚙️ **Projects**
 
-- [**URLite**](https://github.com/stormbels/URLite) - Go URL shortener with chi, SQLite, logging, and unit and integration tests.
-- [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp) - PostgreSQL queries, indexes, transactions, isolation levels, functions, and triggers.
-- [**Philosophers**](https://github.com/stormbels/Philosophers) - threads and mutexes in C; processes and semaphores in the bonus version.
+- [**URLite**](https://github.com/stormbels/URLite)
+- [**SQL Bootcamp**](https://github.com/stormbels/SQL_bootcamp)
+- [**Philosophers**](https://github.com/stormbels/Philosophers)
 
 [**Telegram**](https://t.me/dmortons)
